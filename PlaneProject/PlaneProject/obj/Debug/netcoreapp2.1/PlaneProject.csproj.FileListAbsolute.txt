@@ -1,0 +1,11 @@
+/Users/imrane/Projects/PlaneProject/PlaneProject/bin/Debug/netcoreapp2.1/PlaneProject.deps.json
+/Users/imrane/Projects/PlaneProject/PlaneProject/bin/Debug/netcoreapp2.1/PlaneProject.runtimeconfig.json
+/Users/imrane/Projects/PlaneProject/PlaneProject/bin/Debug/netcoreapp2.1/PlaneProject.runtimeconfig.dev.json
+/Users/imrane/Projects/PlaneProject/PlaneProject/bin/Debug/netcoreapp2.1/PlaneProject.dll
+/Users/imrane/Projects/PlaneProject/PlaneProject/bin/Debug/netcoreapp2.1/PlaneProject.pdb
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.csprojAssemblyReference.cache
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.csproj.CoreCompileInputs.cache
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.AssemblyInfoInputs.cache
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.AssemblyInfo.cs
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.dll
+/Users/imrane/Projects/PlaneProject/PlaneProject/obj/Debug/netcoreapp2.1/PlaneProject.pdb

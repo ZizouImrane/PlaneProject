@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaneProject", "PlaneProject\PlaneProject.csproj", "{F61A5174-6C4F-49B6-ABCF-49001BF67676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F61A5174-6C4F-49B6-ABCF-49001BF67676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61A5174-6C4F-49B6-ABCF-49001BF67676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61A5174-6C4F-49B6-ABCF-49001BF67676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61A5174-6C4F-49B6-ABCF-49001BF67676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
